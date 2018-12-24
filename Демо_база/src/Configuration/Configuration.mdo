@@ -198,6 +198,7 @@
   <constants>Constant.ИспользоватьСотовуюСеть</constants>
   <constants>Constant.ИспользоватьСетьПередачиДанных</constants>
   <constants>Constant.ИспользоватьСпутники</constants>
+  <constants>Constant.ПРостоКонстанта</constants>
   <commonForms>CommonForm.ОбщиеНастройки</commonForms>
   <commonForms>CommonForm.НастройкиМобильногоУстройства</commonForms>
   <commonForms>CommonForm.НастройкаПочты</commonForms>

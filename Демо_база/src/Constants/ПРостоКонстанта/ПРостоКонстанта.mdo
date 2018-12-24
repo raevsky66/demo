@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c8d67aa5-525d-48c9-ab16-8c232db52408">
+  <producedTypes>
+    <managerType typeId="e3e23cff-406e-4cc7-a482-98095033f9c8" valueTypeId="c1c59702-3522-4e6d-93b6-38322526afd9"/>
+    <valueManagerType typeId="39a8df66-f1f7-4453-98ae-a0f8574668b3" valueTypeId="ebaa645e-8cc8-4f4c-8207-a53713ea27ee"/>
+  </producedTypes>
+  <name>ПРостоКонстанта</name>
+  <synonym>
+    <key>ru</key>
+    <value>П росто константа</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
